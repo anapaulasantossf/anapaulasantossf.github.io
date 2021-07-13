@@ -50,7 +50,7 @@ baseurl: ''
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars.githubusercontent.com/u/39717013?s=400&v=4"
+avatar: "https://avatars.githubusercontent.com/u/39717013?s=400&u=b808eb23f981c4698b960b5c5356c0e6dc2b0486&v=4"
 
 # avatar: "images/dev.jpg"
 #avatar:
